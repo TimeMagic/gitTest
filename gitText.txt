@@ -1,0 +1,5 @@
+﻿Git is a version control system.
+Git is free software.
+Git is submit.
+https://github.com/TimeMagic/gitTest
+1
